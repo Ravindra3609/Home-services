@@ -1,4 +1,4 @@
-**# Home services using MERN Stack**
+**Home services using MERN Stack**
 In the present scenario, people are buried up in a heavy work culture, as everyone is engaged 
 with busy schedules, and hectic tasks which make them deviate from family life. If any issues 
 are encountered unexpectedly, it distracts them and makes them choose the work they must 
